@@ -15,7 +15,7 @@
     { "id": 13, "name": "Joao Pedro", "city": "Manchester", "students": [ {"name": "Maria"}]  },
     { "id": 14, "name": "Bruno Henrique", "city": "Manchester", "students": [ {"name": "Carlos"}]  },
     { "id": 15, "name": "Guilherme Santana", "city": "London", "students": [ {"name": "Maria"}, {"name": "Teresa"}]  },
-    { "id": 16, "name": "Luisa Pedrosa", "city": "Liverpool", "students": [ {"name": "Pedro"}]  },
+    { "id": 16, "name": "Luisa Pedrosa", "city": "Liverpool", "students": [ {"name": "Pedro"}]  }
   ],
   "cities": [
     { 
